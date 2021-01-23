@@ -2,7 +2,7 @@
   tasks:
   - name: "sync the website"
     synchronize:
-      src: site/
+      src: siteThatHostsTheOneFile/
       dest: /var/www/{{ domain }}
       archive: no
       checksum: yes
