@@ -4,7 +4,7 @@ A quick ansible practice.
 The task ahead:
 
 Create an ansible playbook that installs an NGINX server then does it's configuration as necessary to be able to host a single file. Hence the name, oneFileHoster.
-The solution (as far as I see the playbook itself) should be shared thorough GitHub.
+The solution (as far as I see the playbook itself) should be shared through GitHub.
 
 Evalution details:
 
